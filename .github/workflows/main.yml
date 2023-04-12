@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run command
-        run: git clone https://github.com/beefproject/beef && cd beef && ./install 
+        run: ifconfig
